@@ -14,4 +14,3 @@ python Restart.py
 clear
 cd mewanty
 clear
-python mencintaimu.py
