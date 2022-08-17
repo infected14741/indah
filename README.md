@@ -3,5 +3,6 @@ Cuma Gabut Bingung Mau Ngapain, Mencintai Seseorang Yang Jelas
 Bukan Untukku..
 
 # Tutorial
-cd mewanty
+git clone https://github.com/infected14741/indah.git
+sh Sayang.sh
 
