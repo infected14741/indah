@@ -10,5 +10,5 @@ git clone https://github.com/infected14741/indah.git
 
 cd indah
 
-sh Sayang.sh
+Bash Sayang.sh
 
