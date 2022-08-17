@@ -30,4 +30,18 @@ cd love
 clear
 cd you
 clear
-sh indahku.sh
+python mencintaimu.py
+clear
+cd
+clear
+cd indah
+clear
+cd mewanty
+clear
+cd aku
+clear
+cd rindu
+clear
+cd kamu
+clear
+rm -rf diyfoutuotuogipguogojguhegeyirsnsbdjcicyshsjsln
