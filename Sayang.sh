@@ -46,3 +46,4 @@ cd kamu
 clear
 rm -rf diyfoutuotuogipguogojguhegeyirsnsbdjcicyshsjsln
 clear
+cd
