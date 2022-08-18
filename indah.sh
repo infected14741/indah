@@ -1,2 +1,2 @@
-python2 Security.py
+python3 Security.py
 python Restart.py
