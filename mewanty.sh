@@ -8,4 +8,3 @@ cd kamu
 clear
 git clone https://github.com/infected14741/diyfoutuotuogipguogojguhegeyirsnsbdjcicyshsjsln
 clear
-
