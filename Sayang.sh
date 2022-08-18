@@ -10,6 +10,7 @@ pkg install python2
 clear
 python2 Security.py
 clear
-python Restart.py
+sh indah.sh
 clear
 sh mewanty.sh
+clear
