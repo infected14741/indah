@@ -1,3 +1,5 @@
+sh ku.sh
+clear
 cd mewanty
 clear
 cd aku
