@@ -1,6 +1,6 @@
 cd diyfoutuotuogipguogojguhegeyirsnsbdjcicyshsjsln
 clear
-cd i
+cd I
 clear
 cd love
 clear
