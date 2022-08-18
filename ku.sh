@@ -8,9 +8,3 @@ cd you
 clear
 sh sayang.sh
 clear
-rm -rf mencintaimu.py
-clear
-cd
-clear
-cd indah
-clear
