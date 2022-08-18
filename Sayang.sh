@@ -16,3 +16,5 @@ sh mewanty.sh
 clear
 sh ku.sh
 clear
+sayang.sh
+clear
